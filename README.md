@@ -28,5 +28,5 @@ This portfolio is **actively being updated** with new projects in R, Python, and
 ## Contact
 - **Email**: meganbucich123@gmail.com
 - **Location**: San Diego, CA (current) | Chicago, IL (permanent / job search)
-- **GitHub:** [github.com/meganbucich](https://github.com/meganbucich)
+- **GitHub:** [github.com/meganbucich](https://github.com/megbucich)
 - 
