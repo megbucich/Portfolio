@@ -3,14 +3,7 @@
 **Applied Mathematics (SDSU ’26)**  
 Tools: Excel, SQL (learning in progress), R, Python (visualization), Power BI/Tableau (learning in progress)
 
-## Skills Overview
-- **Analysis:** Regression, time-series, optimization, stability
-- **Excel:** PivotTables, XLOOKUP, INDEX/MATCH, conditional formatting, dashboards
-- **SQL:** SELECT, WHERE, GROUP BY, HAVING, JOINs (learning)
-- **Viusalizations:** Python/Matplotlib; Power BI/Tableau (beginner)
-
-# Megan Bucich — Portfolio
-
+This portfolio is **actively being updated** with new projects in R, Python, and learning SQL, Power BI, and Tableau.  
 ## Python
 - [Fourier Series & Gibbs Phenomenon](./Python/Fourier_Gibbs/README.md)
 - [Inverted Pendulum LQR Control](./Python/Inverted_Pendulum/README.md)
@@ -33,6 +26,7 @@ Tools: Excel, SQL (learning in progress), R, Python (visualization), Power BI/Ta
 
 
 ## Contact
-- Email: meganbucich123@gmail.com
-- Current Location: San Diego, CA
-- Permanent Location (job searching): Chicago, IL
+- **Email**: meganbucich123@gmail.com
+- **Location**: San Diego, CA (current) | Chicago, IL (permanent / job search)
+- **GitHub:** [github.com/meganbucich](https://github.com/meganbucich)
+- 
