@@ -1,6 +1,4 @@
 #Homework 3 
-#Complete: 3.1,3.3,3.8,3.9,
-#Incomplete 3.13,3.14,3.19,3.20,4.11,4.13
 
 #3.1
 
@@ -290,3 +288,4 @@ plot(time,reg$residuals,xlab="Time",ylab = "Residuals",
 year_lab = seq(min(year),max(year),by = 8)
 x_ticks = (year_lab - min(year))* 12 + 1
 axis(1,at = x_ticks,labels = year_lab)
+
